@@ -21,4 +21,6 @@
 <div>
   <a href="" target="_blank"> Youtube </a> | <a href="https://www.instagram.com/pedro.tavaaress/"> Instagram <a>
 </div>  
+  
+ <img src="00f9df5a5cd63bbd07a5649c9d03c0f1.gif">
 
